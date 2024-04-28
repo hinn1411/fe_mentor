@@ -5,7 +5,6 @@
   margin: 0;
 }
 
-
 body {
   background-color: hsl(212, 45%, 89%);
   min-height: 100vh;
@@ -25,7 +24,7 @@ p {
 }
 
 .main-outer_container {
-  padding: 16px;
+  padding: 1.3rem;
   border-radius: 20px;
   background-color: white;
 }
@@ -39,6 +38,12 @@ p {
   padding: 24px 0;
 }
 
-.main-content_container>p {
+.main-content_container > h1 {
+  font-size: 24px;
+  color: hsl(218, 44%, 22%);
+}
+
+.main-content_container > p {
   margin-top: 16px;
+  color: hsl(220, 15%, 55%);
 }

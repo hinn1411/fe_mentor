@@ -26,8 +26,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Preview site](https://hinn1411.github.io/fe_mentor/)
 
 ## My process
 
@@ -37,7 +36,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS (Flexbox)
 
 ### What I learned
-Use this code snippet in <body> tag to align its children vertically and horizontally.
+Use this code snippet in body tag to align its children vertically and horizontally.
 
 
 ```css
